@@ -1,18 +1,3 @@
-alert('Youre clean af!');
-
-/* var phrase = 'To be or not to be';
-
-document.write( phrase);
-document.write( phrase);
-phrase = 'oh yeah';
-document.write( phrase);
-document.write( phrase);
-// you see how when switching the phrase halfway through it allowed it to be changed but the first 2 phrases were ok */
-
-/*var name = window.prompt('What is your name?');
-var age = window.prompt('How old are you?');
-document.write("Hey " + name + ', How are you today? Do you like being ' + age + ' years old?')*/
-
 // Create a program that uses variables for years, and then calculate and displays an approximate age in months, days, hours, and seconds. For example, a person 1-year-old is 12 months old, 365 days old, etc.
 function calculateAge(years) {
     const monthsPerYear = 12;
